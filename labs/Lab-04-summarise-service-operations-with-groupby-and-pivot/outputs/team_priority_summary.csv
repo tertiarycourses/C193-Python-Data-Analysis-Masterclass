@@ -1,0 +1,13 @@
+support_team,priority,tickets,median_hours
+Accounts,Critical,7,18.20857816708889
+Accounts,High,19,18.565506818155832
+Accounts,Low,23,17.130274642126945
+Accounts,Medium,36,19.598147024256946
+Fulfilment,Critical,4,21.722811073712357
+Fulfilment,High,15,18.628231030587777
+Fulfilment,Low,19,19.99547180144583
+Fulfilment,Medium,20,17.203863384889445
+Payments,Critical,7,20.81866534557889
+Payments,High,30,18.238340837861806
+Payments,Low,32,15.953923160785834
+Payments,Medium,28,19.93676092371236

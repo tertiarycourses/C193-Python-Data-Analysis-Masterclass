@@ -1,0 +1,4 @@
+student_id,education_level,gender,physical_activity_days,vegetable_servings,sweetened_drinks_week,sleep_hours,wellbeing_score
+STU0021,Secondary 3,Male,2.8,3.1,4,,85.0
+STU0077,Secondary 1,Female,9.0,2.4,3,5.4,83.7
+STU0190,Secondary 2,Female,4.6,2.0,10,,73.7

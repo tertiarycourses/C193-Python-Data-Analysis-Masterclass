@@ -1,0 +1,11 @@
+customer_id,region,orders_12m,avg_order_value,days_since_last_order,preferred_channel
+C0001,East,5,161.24,130,Store
+C0002,West,3,156.26,157,Web
+C0003,North,9,123.8,45,Marketplace
+C0004,West,12,138.44,140,Store
+C0005,West,5,221.09,119,Store
+C0006,Central,7,207.85,83,Marketplace
+C0007,East,6,131.52,40,Web
+C0008,North,5,122.88,169,Marketplace
+C0009,East,6,254.86,119,Marketplace
+C0010,East,3,218.89,135,Store

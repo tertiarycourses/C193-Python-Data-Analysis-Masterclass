@@ -1,0 +1,5 @@
+metric,value
+test_r2,0.4418032042527227
+test_mse,51.53524279793162
+train_rows,222.0
+test_rows,75.0

@@ -1,0 +1,9 @@
+customer_id,region,orders_12m,avg_order_value,days_since_last_order,preferred_channel,satisfaction
+C0017,North,7,204.47,2,Marketplace,2
+C0021,North,6,222.18,17,Web,2
+C0061,East,4,304.14,12,Store,1
+C0063,North,12,403.14,21,Store,3
+C0072,East,14,293.45,20,Store,3
+C0080,East,8,238.59,30,Web,2
+C0087,North,6,214.93,19,Marketplace,2
+C0116,North,3,298.52,22,Web,3

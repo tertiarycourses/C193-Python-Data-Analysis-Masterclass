@@ -1,0 +1,1 @@
+The strongest correlations identify linear co-movement in this synthetic sample. They do not establish that increasing one metric causes another because channel mix, audience quality and campaign design may confound the relationship.

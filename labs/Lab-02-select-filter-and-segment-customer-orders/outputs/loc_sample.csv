@@ -1,0 +1,4 @@
+customer_id,region,orders_12m,avg_order_value
+C0005,West,5,221.09
+C0012,North,2,120.56
+C0027,North,2,103.6

@@ -1,0 +1,6 @@
+check,status
+Synthetic training data only,PASS
+Held-out evaluation used,PASS
+Missing and invalid records audited,PASS
+Associations not described as causal,PASS
+Sampling and confounding limitations disclosed,PASS
